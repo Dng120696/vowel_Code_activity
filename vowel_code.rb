@@ -15,11 +15,11 @@ def encode(str)
     if vowel_code.key?(s.downcase)
       new_str += vowel_code[s.downcase]
     else
-      new_str += s
+      new_str += sW`  QSE`
     end
   end
 
-  new_str
+  new_str``
 end
 
 p encode("hello")
